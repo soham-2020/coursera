@@ -1,2 +1,1 @@
-# coursera
-coursera test
+cancer prediction and admission prediction 
